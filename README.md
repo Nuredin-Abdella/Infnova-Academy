@@ -17,33 +17,8 @@ INFNOVA Academy is a premium, modern learning platform designed for the next gen
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **Deployment**: Optimized for platforms like Vercel or Netlify.
 
-## 🛠️ Getting Started
 
-### Prerequisites
 
-- Node.js (v18.x or later recommended)
-- npm or yarn
-
-### Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Nuredin-Abdella/Infnova-Academy.git
-   cd Infnova-Academy
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Run the development server**:
-   ```bash
-   npm run dev
-   ```
-
-4. **Visit the application**:
-   Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 📁 Project Structure
 
@@ -52,9 +27,3 @@ INFNOVA Academy is a premium, modern learning platform designed for the next gen
 - `/lib`: Mock API and utility functions.
 - `/public`: Static assets (images, fonts).
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-Built with ❤️ by INFNOVA Technologies.
