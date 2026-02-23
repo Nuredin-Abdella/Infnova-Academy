@@ -7,7 +7,7 @@ import ScrollToTop from "@/components/ScrollToTop";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-    title: "INFNOVA Academy - Master New Skills",
+    title: "Infnova Academy",
     description: "Start your learning journey today with INFNOVA Academy",
 };
 
